@@ -2,7 +2,7 @@
   <div class="about">
       <h1>1</h1>
       <h3>ABOUT</h3>
-      <figure data-aos="flip-up" data-aos-duration="1000"><img src="../assets/me.png" alt=""></figure>
+      <figure data-aos="flip-up" data-aos-duration="1000"><img src="../assets/kjs.jpeg" alt=""></figure>
       <p class="about_name"><span>김주선</span> / <span class="birth">2000.08.23</span></p>
       <p class="about_introduce">
         저는 신입 개발자입니다. 그러기에 아직 배울 점이 많습니다. <br> 
@@ -46,7 +46,7 @@ export default {
       >figure{
         width: 100%;
         >img{
-          width: 75%;
+          width: 50%;
         }
       }
       .about_name{
