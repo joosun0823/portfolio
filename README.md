@@ -1,24 +1,12 @@
-# portfolio
+# 🖥 포트폴리오
 
-## Project setup
-```
-npm install
-```
+## 📆 개발기간
+2023.11.01 - 2023.11.17
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ⚙ 개발환경
+Framework : Vue.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 🙄 느낀점
+여태 해온 프로젝들을 되돌아보며 아쉬운 점들도 많았고 <br>
+문제도 많았지만 즐기면서 했다는 것이 너무 좋았다.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
